@@ -1,0 +1,46 @@
+{
+  "workbench.startupEditor": "welcomePage",
+  "editor.fontSize": 20,
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "editor.mouseWheelZoom": true,
+  "window.zoomLevel": -1,
+  "terminal.integrated.cursorStyle": "block",
+  "editor.renderWhitespace": "none",
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  "files.trimTrailingWhitespace": true,
+  "editor.matchBrackets": false,
+  "files.encoding": "utf8",
+
+  "editor.selectionHighlight": true,
+
+
+  "code-runner.executorMap": {
+      "javascript": "js",
+      "php": "C:\\php\\php.exe",
+      "html": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+  },
+
+
+  // Style to use for left side of tag
+  "highlight-matching-tag.leftStyle": {
+      "borderWidth": "0 0 0 2px",
+      "borderStyle": "solid",
+      "borderColor": "red",
+      "borderRadius": "5px"
+    },
+
+    // Style to use for right side of tag
+    "highlight-matching-tag.rightStyle": {
+      "borderWidth": "0 2px 0 0",
+      "borderStyle": "solid",
+      "borderColor": "red",
+      "borderRadius": "5px"
+  },
+  //Themes
+  "workbench.colorTheme": "Material Neutral - Classic",
+  // To disable information pop up messages.
+  "liveServer.settings.donotShowInfoMsg": true
+}
